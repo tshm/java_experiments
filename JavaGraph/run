@@ -1,0 +1,4 @@
+#!/bin/sh
+cd ~/prog/java
+java JavaGraph.JGraph &
+cd JavaGraph

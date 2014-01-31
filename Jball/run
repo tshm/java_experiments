@@ -1,0 +1,4 @@
+#!/bin/sh
+cd ..
+java Jball.JavaBall &
+cd Jball
